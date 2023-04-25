@@ -1,4 +1,4 @@
-# Grep & Regex Lab
+# Grep and Regex Lab
 
 ## Task
 
